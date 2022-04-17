@@ -1,7 +1,7 @@
 ---
 title: "Linux File Permissions"
 date: 2022-04-16T17:33:29+08:00
-draft: true
+draft: false
 tags: ["linux","file"]
 ---
 > 最近在使用 k8s 过程中，需要给 mount 的文件配置权限。
