@@ -14,3 +14,8 @@ draft: false
 
 ![java-线程池参数](https://raw.githubusercontent.com/stardustman/pictures/main/img/java-thread-pool-params.drawio.svg)
 
+
+## References
+
+1. [你管这破玩意叫线程池](https://mp.weixin.qq.com/s/OKTW_mZnNJcRBrIFHONR3g)
+
