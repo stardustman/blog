@@ -1,7 +1,8 @@
 ---
 title: "Master Pki"
 date: 2022-06-23T22:17:42+08:00
-draft: true
+draft: false
+tags: ["pki","ssl"]
 ---
 
 
