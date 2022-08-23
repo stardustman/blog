@@ -52,12 +52,13 @@ tags: ["tools"]
 ## shell
 
 1. [oh-my-zsh](https://ohmyz.sh/)
+2. [starship](https://github.com/starship/starship)
 
 # working
 
 ## pc
 
-1. [sinp & paste](https://www.snipaste.com/)
+1. [snipaste](https://www.snipaste.com/)
 2. [mubu](https://mubu.com/)
 3. [process on](https://www.processon.com)
 4. [screen-recorder](https://www.apowersoft.cn/free-online-screen-recorder)
@@ -66,6 +67,7 @@ tags: ["tools"]
 
 1. [multibootusb](http://multibootusb.org/page_download/)
 2. [universal usb installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
+3. [rufus](https://rufus.ie/zh/)
 
 # entertainment
 
@@ -75,12 +77,7 @@ tags: ["tools"]
 
 1. [downloader-you-get](https://github.com/soimort/you-get)
 2. [downloader-motrix](https://motrix.app/)
-
-### baidu
-
-1. [baiduwp](https://www.baiduwp.com/)
-2. [pandownload](http://pandownload.com/index.html)
-3. [Xdown](https://xdown.org/)
+3. [downloader-Xdown](https://xdown.org/)
 
 ### converter
 
@@ -89,8 +86,8 @@ tags: ["tools"]
 ## movie
 
 1. [cupfox](https://www.cupfox.com/)
-2. [bt-177.tel](http://www.bt177.tel/)
-3. [renren](http://www.yyetss.com/)
+2. [agmov](https://agmov.com/)
+
 
 ## picture
 
@@ -113,3 +110,4 @@ tags: ["tools"]
 
 1. [tianyancha](https://www.tianyancha.com/)
 2. [resume](http://cv.ftqq.com/#)
+3. [木及简历](https://www.mujicv.com/)
