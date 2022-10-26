@@ -25,6 +25,9 @@ tags: ["words"]
 
 ## e
 
+1. eligible
+   qualified to participate or be chosen
+
 ## f
 
 ## g
@@ -84,6 +87,7 @@ tags: ["words"]
    a balance achieved between two desirable but incompatible features; a compromise
 
    平衡两个`互不兼容的特性`，妥协
+3. traid / triplet
 
 ## u
 
