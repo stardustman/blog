@@ -73,6 +73,7 @@ tags: ["words"]
 
 1. relinquish
    voluntarily cease to keep or claim; give up. 自愿放弃
+   to give over possession or control of : YIELD 放弃控制
 
 ## s
 
