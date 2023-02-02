@@ -96,6 +96,8 @@ tags: ["words"]
 
    平衡两个`互不兼容的特性`，妥协
 3. traid / triplet
+4. ticket
+   > a certificate or token showing that a fare or admission fee has been paid  票
 
 ## u
 
