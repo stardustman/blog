@@ -48,6 +48,16 @@ $Proxy0 -> Proxy(InvocationHandler h) 由此可见:
 
 ## 运行时生成的动态代理类方法
 
+### $Proxy0 的命名
+
+```java
+        // prefix for all proxy class names
+        private static final String proxyClassNamePrefix = "$Proxy";
+
+        // next number to use for generation of unique proxy class names
+        private static final AtomicLong nextUniqueNumber = new AtomicLong();
+```
+
 ###  $Proxy0#founder
 
 ![dynamic-proxy-stack-frame-1](https://raw.githubusercontent.com/stardustman/pictures/main/img/dynamic-proxy-stack-frame-1.jpg)
@@ -83,7 +93,7 @@ $Proxy0 -> Proxy(InvocationHandler h) 由此可见:
     }
 ```
 
-### $Proxy#lastEmperor
+### $Proxy0#lastEmperor
 
 ```java
     public final String lastEmperor() throws  {
@@ -163,4 +173,5 @@ public class TangDynasty implements Dynasty{
 3. [ProxyGenerator#sun.misc.ProxyGenerator.saveGeneratedFiles](https://github.com/JetBrains/jdk8u_jdk/blob/master/src/share/classes/sun/misc/ProxyGenerator.java#L313-L317)
 4. [jdk8-proxy](https://docs.oracle.com/javase/8/docs/technotes/guides/reflection/proxy.html)
 5. [分析所用代码](https://github.com/stardustman/java-inspect)
+6. [$Proxy0](https://github.com/JetBrains/jdk8u_jdk/blob/master/src/share/classes/java/lang/reflect/Proxy.java#L560-L564)
 
