@@ -2,6 +2,7 @@
 title: "Ipc Signal"
 date: 2023-04-11T20:15:57+08:00
 draft: false
+tags: ["ipc"]
 ---
 
 # signal
